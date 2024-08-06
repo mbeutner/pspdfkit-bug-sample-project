@@ -1,0 +1,3 @@
+[submodule "react-native-pspdfkit"]
+	path = react-native-pspdfkit
+	url = https://github.com/mbeutner/react-native-pspdfkit
